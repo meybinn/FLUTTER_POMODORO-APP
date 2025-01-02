@@ -14,3 +14,12 @@ second FLUTER UI project
 (3) 리셋
 
 ![image](https://github.com/user-attachments/assets/87b6a62c-fc4a-466e-beae-6a77b27dc755)
+
+
+- 기본적인 뽀모도로 앱
+- 1500초(25분)을 기본값
+- 버튼
+    - 재생 및 정지 버튼
+      ㄴ 같은 위치에 두었음. 클릭으로 구별
+    - pomodoros와 시간 모두 리셋하는 리셋 버튼
+      ㄴ pomodoros =  0, 시간 = 1500(초)로 초기화
