@@ -7,7 +7,7 @@ second FLUTER UI project
 
 (2) 재생 화면
 
-![image](https://github.com/user-attachments/assets/57711a99-55a4-42cd-a36e-2ab5d838152b)
+![image](https://github.com/user-attachments/assets/80583510-71fe-4745-96a8-671706e93a33)
 ![image](https://github.com/user-attachments/assets/389ad5c8-551b-48dc-8ae8-926e7ac292f9)
 
 (3) 리셋
